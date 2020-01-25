@@ -41,11 +41,11 @@ div img {
 @media only screen and (min-width: 768px) {
 	.first-row {
 		background-color: #2772B0;
-		clear: both;
 	}
 
 	.first-row article {
-		max-width: 20%;
+		max-width: 25%;
 		float: left;
+		clear: right;
 	}
 }
