@@ -20,6 +20,10 @@ li {
 	padding: 0.5em;
 }
 
+.flex2 {
+	border: 5px solid blue;
+	order: 2;
+}
 
 
 
