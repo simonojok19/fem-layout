@@ -10,6 +10,7 @@ ul {
 	/* flex-direction: row;
 	flex-wrap: wrap; */
 	flex-flow: row wrap;
+	justify-content: flex-end;
 }
 li {
 	border: 5px solid #999;
